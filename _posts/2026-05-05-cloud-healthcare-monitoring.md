@@ -66,4 +66,4 @@ Such innovations are essential to address the growing challenges in healthcare, 
 ## References
 
 Amin, A. B., Wang, S., David, U., & Noh, Y. (2022). Applicability of Cloud Native-based Healthcare Monitoring Platform (CN-HMP) in Older Adult Facilities. Annu Int Conf IEEE Eng Med Biol Soc. 2022 Jul;2022:2684-2688. doi: 10.1109/EMBC48229.2022.9871998. PMID: 36086197.
- 🔗 https://ieeexplore.ieee.org/document/9871998
+[Access the article](https://ieeexplore.ieee.org/document/9871998)
