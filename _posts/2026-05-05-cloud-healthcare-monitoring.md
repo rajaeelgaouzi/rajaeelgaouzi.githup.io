@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "Cloud-Based Healthcare Monitoring: A New Approach for Elderly Care"
-subtitle: "Exploring a cloud-native application in biomedicine"
+title: "Cloud-Based Healthcare Monitoring for Elderly Patients"
+subtitle: "A cloud-native application in biomedicine"
+tags: [biomedicine, cloud computing, healthcare]
+comments: true
+author: Rajae El Gaouzi
 date: 2026-05-05
 ---
 
