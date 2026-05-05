@@ -9,7 +9,7 @@ subtitle: Get in touch
 If you would like to get in touch regarding academic collaboration, research opportunities, or any professional inquiries, feel free to contact me through the following channels:
 
 - 📧 **Email:** rajae.elgaouzi@estudiants.urv.cat 
-- 🔗 **LinkedIn:** [My LinkedIn Profile][linkedin.com/in/rajae-urv-06a911397](https://www.linkedin.com/in/rajae-urv-06a911397) 
+- 🔗 **LinkedIn:** [linkedin.com/in/rajae-urv-06a911397](https://www.linkedin.com/in/rajae-urv-06a911397) 
 - 💻 **GitHub:** [github.com/rajaeelgaouzi](https://github.com/rajaeelgaouzi)
 
   ---
