@@ -31,6 +31,10 @@ The CN-HMP system is based on a cloud-native architecture, which includes:
 
 The system also includes an alert mechanism that detects abnormal health conditions and notifies caregivers immediately.
 
+![System Architecture]({{ '/images/architecture.png' | relative_url }}){: .mx-auto.d-block :}
+
+*Figure 1: Cloud-native healthcare monitoring system architecture (CN-HMP).*
+
 ## Advantages of Cloud-Based Healthcare Systems
 
 This application demonstrates several advantages of cloud computing in biomedicine:
