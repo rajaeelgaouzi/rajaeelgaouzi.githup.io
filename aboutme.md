@@ -13,8 +13,8 @@ My name is Rajae El Gaouzi, I am from Rabat, Morocco, and I love learning new sk
 - National Diplomate of speciality in oral surgery (2018-2022)
 
 ### Experience
-- External doctor in University hospital Ibn Sina of Rabat
-- Internal doctor in university hospital Ibn Sina of Rabat
-- Resident doctor in university hospital Ibn Sina of Rabat
-- specialist doctor in university hospital Ibn Sina of Rabat
-- Researcher in laboratory of Life and Health Sciences, medicine faculty of Rabat
+- External doctor in University hospital Ibn Sina of Rabat (2013-2014)
+- Internal doctor in university hospital Ibn Sina of Rabat (2015-2017)
+- Resident doctor in university hospital Ibn Sina of Rabat (2018-2022)
+- specialist doctor in university hospital Ibn Sina of Rabat (2022)
+- Researcher in laboratory of Life and Health Sciences, medicine faculty of Rabat (2019)
